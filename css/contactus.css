@@ -162,6 +162,7 @@ section iframe {
   padding-left: 5px;
   border: 1px solid black;
   box-shadow: 0px 0px 8px 0px black;
+  border-radius: 5px;
 }
 .lastName {
   display: flex;
@@ -176,6 +177,7 @@ section iframe {
   padding-left: 5px;
   border: 1px solid black;
   box-shadow: 0px 0px 8px 0px black;
+  border-radius: 5px;
 }
 .message {
   display: flex;
@@ -190,6 +192,7 @@ section iframe {
   padding-top: 5px;
   border: 1px solid black;
   box-shadow: 0px 0px 8px 0px black;
+  border-radius: 5px;
 }
 .button {
   margin: 5px;
